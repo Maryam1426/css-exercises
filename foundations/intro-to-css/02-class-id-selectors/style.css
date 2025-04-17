@@ -13,3 +13,9 @@
 .cooler {
     font-size: 24px;
 }
+
+#another-id {
+    background-color:#a5f2b6 ;
+    font-size: 24px;
+    font-weight: bold;
+}
